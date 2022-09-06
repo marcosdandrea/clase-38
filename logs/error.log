@@ -1,0 +1,54 @@
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"_message":"user validation failed","errors":{"address":{"kind":"required","message":"Path `address` is required.","name":"ValidatorError","path":"address","properties":{"message":"Path `address` is required.","path":"address","type":"required"}},"telephone":{"kind":"required","message":"Path `telephone` is required.","name":"ValidatorError","path":"telephone","properties":{"message":"Path `telephone` is required.","path":"telephone","type":"required"}}},"level":"error","message":"user validation failed: address: Path `address` is required., telephone: Path `telephone` is required.","name":"ValidationError"}
+{"_message":"user validation failed","errors":{"address":{"kind":"required","message":"Path `address` is required.","name":"ValidatorError","path":"address","properties":{"message":"Path `address` is required.","path":"address","type":"required"}},"telephone":{"kind":"required","message":"Path `telephone` is required.","name":"ValidatorError","path":"telephone","properties":{"message":"Path `telephone` is required.","path":"telephone","type":"required"}}},"level":"error","message":"user validation failed: address: Path `address` is required., telephone: Path `telephone` is required.","name":"ValidationError"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
